@@ -1,0 +1,14 @@
+Productregister database
+product table
+
+productid
+productname
+categoryid
+producttypeid
+packaging
+quantityinpackage
+weight
+weighttype
+price
+offer
+picture
